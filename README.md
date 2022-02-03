@@ -16,7 +16,7 @@ This is the example code for basic background parallax using TileSprites in Phas
 
 ## Getting Started
 
-Clone this repository with git and run:
+Clone this repository with [git using lfs](https://git-lfs.github.com/) or just download the assets in `public` manually and run:
 
 ```
 npm install
