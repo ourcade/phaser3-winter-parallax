@@ -10,7 +10,7 @@ This is the example code for basic background parallax using TileSprites in Phas
 
 🏔 [Watch the video that goes over parallax with TileSprites here.](https://youtu.be/7xjHM5N7LGQ)
 
-❄️ [Watch the video that goes over snowfall particles here.] (https://youtu.be/wc-mkPSayZ8)
+❄️ [Watch the video that goes over snowfall particles here.](https://youtu.be/wc-mkPSayZ8)
 
 [Check out Ourcade for more on game development on the web!](https://ourcade.co)
 
