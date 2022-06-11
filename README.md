@@ -8,9 +8,9 @@
 
 This is the example code for basic background parallax using TileSprites in Phaser 3. There's also some snowfall particles to complete the Winter theme!
 
-🏔 [Watch the video that goes over parallax with TileSprites here.](https://youtu.be/7xjHM5N7LGQ)
+🏔 [Watch the video that goes over parallax with TileSprites here.](https://youtu.be/7UlNsN0RyEE)
 
-❄️ [Watch the video that goes over snowfall particles here.](https://youtu.be/wc-mkPSayZ8)
+❄️ [Watch the video that goes over snowfall particles here.](https://youtu.be/B5fvw3J6ljw)
 
 [Check out Ourcade for more on game development on the web!](https://ourcade.co)
 
